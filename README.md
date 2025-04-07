@@ -1,6 +1,6 @@
-# 🧮 Java Calculator Project
+# Java Calculator Project
 
-## 📌 Description
+## Description
 
 This project is a simple, menu-driven Java Calculator designed with modular programming principles. It performs basic arithmetic and mathematical operations such as addition, subtraction, multiplication, division, square, cube, and square root. Each operation is implemented in a separate `.java` file with proper exception handling to ensure smooth performance and maintainability.
 
