@@ -28,11 +28,3 @@ The calculator supports the following operations:
 
 ---
 
-## 🚀 How to Run
-
-To compile and run the program:
-
-1. Open the terminal in the project directory.
-2. Compile all `.java` files using:
-   ```bash
-   javac *.java
